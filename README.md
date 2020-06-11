@@ -1,14 +1,32 @@
-# Build and Push a Docker Image to AWS ECR
+# Automatically deploy private Docker images to Amazon ECR
 
 [![CircleCI](https://circleci.com/gh/daumie/circleci-ecr-orb-demo.svg?style=svg)](https://circleci.com/gh/daumie/circleci-ecr-orb-demo)
 
-A simple project to show the power of using orbs. CircleCI Orbs are shareable packages of configuration elements, including jobs, commands, and executors.
+<p align="center"><img src="https://avatars3.githubusercontent.com/u/59034516"></p>
 
-## CirleCI Article Linnk
+## Details
 
-> Coming Soon
+This is a simple project to show the power of using orbs. CircleCI Orbs are shareable packages of configuration elements, including jobs, commands, and executors.
 
-### To understand container registries; Docker registries, we have to take a step back. We need to understand the following:
+- Blog post: [Automatically deploy private Docker images to Amazon ECR][blog]
+- Author's GitHub profile: [Dominic Motuka][author]
+
+### About CircleCI Guest Writer Program
+
+Join a team of freelance writers and write about your favorite technology topics for the CircleCI blog. Read more about the program [here][gwp-program].
+
+Reviewers: [Ron Powell][ron]
+
+
+[blog]: https://circleci.com/blog/automatically-deploy-private-docker-images-to-aws-ecr/
+[author]: https://github.com/daumie
+
+[gwp-program]: https://circle.ci/3ahQxfu
+[ron]: https://github.com/ronpowelljr
+
+## Supporting information
+
+> To understand container registries; Docker registries, we have to take a step back. We need to understand the following:
 
 **Docker** - A software platform for building applications based on containers
 
